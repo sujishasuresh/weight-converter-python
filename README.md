@@ -1,6 +1,6 @@
 # Weight Converter
 
-A simple Python command-line application that converts weight between **Kilograms (kg)** and **Pounds (lbs)**.
+Weight Conversion is a simple Python command-line application that converts weight between Kilograms (kg) and Pounds (lbs). The program allows users to choose the desired conversion, enter a weight value, and instantly receive the converted result. It demonstrates the use of conditional statements, user input handling, functions, and basic mathematical operations, making it an excellent beginner-friendly Python project.
 
 ## Features
 
